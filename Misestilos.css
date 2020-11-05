@@ -4,7 +4,13 @@
       font-family: Franklin Gothic;
 }
 .menu    {
-   padding: 20px;
-   background-color: #f0B429;
-   width: 100%;
+  
+font-family: Arial;
+font-size: 11px;
+text-decoration: none;
+float: left;
+padding: 10px;
+background-color: #2175bc;
+color: #fff;
+
 }
