@@ -4,6 +4,7 @@
       font-family: Franklin Gothic;
 }
 .menu    {
+    font-variant: normal;
    padding: 20px;
    background-color: #f0B429;
    width: 100%;
